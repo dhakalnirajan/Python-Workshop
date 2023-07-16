@@ -1,4 +1,6 @@
 # Python-Workshop
+![Banner](img/Python%20Classroom%20Banner.jpg)
+
 
 ### Official Python Website:
 
