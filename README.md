@@ -20,10 +20,10 @@
 
 # Objectives of the Course
 1. To make students understand the use of Python in Research.
-2. To teach the usage of python and its modules like 
-    * **NumPy**, 
+2. To teach the usage of python and its modules like
+    * **NumPy**,
     * **Pandas**,
-    * **Matplotlib**, 
+    * **Matplotlib**,
     * **Seaborn**,
     * **SymPy**
 
@@ -34,7 +34,7 @@ This course starts from July 18, 2023 and the first working days are dedicated t
 <br>
 
 ### Course:
-1. Python Introduction (7 days)
+1. Python Introduction
     - Python Syntax
     - Data Types
     - Operators
@@ -75,9 +75,8 @@ This course starts from July 18, 2023 and the first working days are dedicated t
 <br>
 
 # **Course Syllabus**:
----
 
-## 1. Python Programming
+## 1. **Python Programming**
 
 
 - Introduction to Google Colab
@@ -107,24 +106,24 @@ This course starts from July 18, 2023 and the first working days are dedicated t
 - Sequence data type: List
     - Indexing, slicing, for loop with and without `range()` , while loop, for loop vs while loop
     - Calculating mean of list using loops
-    - Negative Indexing 
+    - Negative Indexing
     - Membership operators: `in , not in`
     - Mutable vs Immutable data type with exmaple
     - List methods: `.insert(), .append(), .remove(), .pop(), .sort()`
     * List comprehension
 * Sequence data type: Tuple
     * List vs tuple
-    * Typecasting data types 
+    * Typecasting data types
     * loop in tuple
     * Unpacking of tuples
 * Sets: unordered, unindexed
     * `.remove() , .add()` in sets
-    * Type conversion 
+    * Type conversion
     * Set operation in Python : union, intersection, difference
 * Mapping data type Dictionary
     * Accessing dictionary items and add key value pair
     * `keys() and values()` method in dictionary
-    * Updating dictionary: The `update()` method 
+    * Updating dictionary: The `update()` method
     * `pop()
     * Looping in dictionary
     * Nested Dictionary
@@ -156,12 +155,12 @@ This course starts from July 18, 2023 and the first working days are dedicated t
     * limiting behaviour of variables : private, public and protected
 
 
-## 2. Numpy
+## 2. **Numpy**
 
 
 * Install and check version of the numpy
 * How to import numpy?
-* Vectors, the 1D Arrays 
+* Vectors, the 1D Arrays
     * What is array and Creating Numpy array: How do you know the shape and size of an array?
     * What’s the difference between a Python list and a NumPy array?
     * Array creation routines: `.zeros(), .ones() and .empty()`
@@ -170,7 +169,7 @@ This course starts from July 18, 2023 and the first working days are dedicated t
     * Indexing (fancy indexing) and slicing 1D numpy array
     * Logic Functions: Truth value testing : `np.any() vs np.all()`
     * Adding, concatenate, and sorting array elements `np.append() , np.sort(), np.concatenate()`
-    * Vector operations i.e. elementwise operations in 1D numpy array 
+    * Vector operations i.e. elementwise operations in 1D numpy array
     * Broadcasting and its application in Image Processing
     * Array Operation: `np.floor(), np.ceil(), np.round()`
     * Statistics using numpy: `.max(), .min(), .argmax(), .argmin(), .sum(), .mean(), .std(), .var()`
@@ -187,7 +186,7 @@ This course starts from July 18, 2023 and the first working days are dedicated t
     * Matrix statistics: `.min(), .min(axis = 1), .min(axis = 0), .argmin(), .argmin(axis = 1), .argmin(axis = 0), np.unravel_index(),  `
     * How morden day images are created? with Example of opencv library
 
-## 3. Matplotlib
+## 3. **Matplotlib**
 
 * Install and check version of matplotlib
 * how to import matplotlib
@@ -210,7 +209,7 @@ This course starts from July 18, 2023 and the first working days are dedicated t
 * Tight Layouting Images/ Padding the images,  Saving the images
 * Other plotting libraries like seaborn and plotly
 
-## 4. Pandas
+## 4. **Pandas**
 
 * Install and check version of pandas
 
