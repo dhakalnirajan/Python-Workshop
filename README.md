@@ -4,8 +4,8 @@
 
 ### Official Python Website:
 
-[![Python](https://img.shields.io/badge/python_Official_Website-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org) &nbsp;&nbsp;
-[![Python](https://img.shields.io/badge/python_Official_Documentation-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org) &nbsp;
+[![Python](https://img.shields.io/badge/Python_Official_Website-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org) &nbsp;&nbsp;
+[![Python](https://img.shields.io/badge/Python_Official_Documentation-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org) &nbsp;
 
 <br>
 
